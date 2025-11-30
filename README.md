@@ -1,3 +1,4 @@
 # mayank
 This is my first git repository
-author:shikha shahi
+<br>
+author-shikha shahi
